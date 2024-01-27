@@ -6,10 +6,15 @@
   ```
   git clone https://github.com/574n13y/gcp-iac-terraform.git
   ```
+   ![image](https://github.com/574n13y/gcp-iac-terraform/assets/35293085/e5f59877-7628-41ea-bf28-a2075e46e5d4)
+
+
  - open Vsual studio 
   1. Create main.tf 
   2. pull code 
   3. push code
+    ![image](https://github.com/574n13y/gcp-iac-terraform/assets/35293085/d1d89012-c4ee-4c58-b7cc-aab62a8c48f9)
+
 
 - validation
   ![Screenshot 2024-01-27 191527](https://github.com/574n13y/gcp-iac-terraform/assets/35293085/146bf91d-8dd3-4779-a764-acb6adf36770)
